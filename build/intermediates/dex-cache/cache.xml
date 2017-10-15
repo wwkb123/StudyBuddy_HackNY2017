@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_c67df2934a7c1d76f38983c77a94e8c289586d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/e12964377813f1f700aa4b2a0fb4b2323cc6978c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67b9906152949a48ff01b27db265e605c40f2979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/fa4408876261294ee20eefaa162c8f8ba69fa6e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78a958e835f7ca6370b41fab62c9900236698c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/f8c3e7e6524438c0217ca29e41ed46450ee40cd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6621f88e08db5d2fe548a28f729aaf61ce082f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/78e6abfd33f8d6e67fae5affe0ecc8e4ec03d087/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d56ce1ba7e636692f7be4c0a1f1d6be9fed7a30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e65e58369cb2d8d8a37270b2c5df61d074f7950f">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a53b2ed56f8bffe7c26edfcf66f20e27386b7a86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f5c72067411c4c8eb3cef0b885a3bbb5f43789b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/b5ca484d161dbd1a14a40f09787e6871ce8be4ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b836ee3183b4d7ff6e8878a9701c4bfb6badc5a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efa3afe71d6eb43413eb9e1b77f8ef33f733d0ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/3ab43ed6c2c58c96c9ca47039116fedb6c56a7ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8786347645ca7fa1eda5fcaf8b602deb6057751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/275db13e1686ac42e6f4edb167eed85c29f91eb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76536f688435d2bdc7ca22dd90fd7f07c9cdbf11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/0e9c750dd372df72cebf268660b1f2414a84eda5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a044b0cd5fb5c0aa3a7fac4467f282cd13a6c41d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/9d3b0af69691e77e740f3c851fc5cc27d3286296/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_329b6c7be6a8d4b3ee3ccdf003839f0c2c6fb850/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/46067b1f69e93fa55e674c04ad6c8e5cf294de9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbcc343e83ce326798c9d5eddcb20ae889873ef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/e0b7abbc4aced7718d1663a730f2accd1f69c2b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6ce7c34bd9108f7b33fb4016dc2fe54beb8d7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/c4d1942060ef56ddace2a7806384d4a1c1cfedf7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24af55161dbb00391bba90f744dadd3c439853b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/8445b2515e12bf8be77fa3456126e81e24faafb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83a38f587acad253a6277eec774ef4344dd62b62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/b1a09c29aead367a22ff70047de7471b54eadec8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6db7a1452d18921c6aa664f4d5c4865d114f6ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/f084770c38c2aa7eb69e9f7ec028629c597c4756/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42ac30b422d1d37ff9176b6c5e8602a0c172f245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/438b20776026f2f06799b3dc6139dff419813e16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_416ce28b41f737e59dd333781767d5489b96515e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/7d731c0c89ca28b54ff6293c37b76588ca5b91f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de332fd2e963e266dbc260d87946b46af93d9893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yiuchungyau/.android/build-cache/d53aa4bbcf522b3c363edc6197e274247ec5542d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/Users/yiuchungyau/Desktop/EasyAR_SDK_2.1.0_Basic_Samples_Android_2017-09-08/StudyBuddy/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a05d0d108299314a7203e93f919aa894ac0afe08/classes.dex" />
+    </item>
+
+</items>
